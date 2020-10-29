@@ -5,12 +5,14 @@ CoenraadS.bracket-pair-colorizer
 eamodio.gitlens
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+HookyQR.beautify
 mhutchie.git-graph
 mosapride.zenkaku
 MS-CEINTL.vscode-language-pack-ja
 oderwat.indent-rainbow
 ryu1kn.partial-diff
 shardulm94.trailing-spaces
+shd101wyy.markdown-preview-enhanced
 streetsidesoftware.code-spell-checker
 vscode-icons-team.vscode-icons
 wmaurer.change-case

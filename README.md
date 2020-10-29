@@ -1,6 +1,5 @@
 # VSCode
-- インストールした拡張機能のリスト
-[vscode_installed_extensions.txt](vscode_installed_extensions.txt)
+- インストールした拡張機能のリスト：[vscode_installed_extensions.txt](vscode_installed_extensions.txt)
 
 ## インストール
 ```
@@ -58,6 +57,12 @@ code --list-extensions > vscode_installed_extensions.txt
 
 ### Auto Close Tag
 - HTML/XMLの終了タグを自動的に追加する
+
+### Beautify
+- HTML/CSS，JavaScriptのコードを整形する
+
+### [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)
+- Markdownの機能を拡張する
 
 ### Path Intellisense
 - ファイルのパスを補完する
