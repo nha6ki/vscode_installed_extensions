@@ -3,6 +3,7 @@ christian-kohler.path-intellisense
 chrmarti.regex
 CoenraadS.bracket-pair-colorizer
 eamodio.gitlens
+eamodio.restore-editors
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 HookyQR.beautify
@@ -16,3 +17,4 @@ shd101wyy.markdown-preview-enhanced
 streetsidesoftware.code-spell-checker
 vscode-icons-team.vscode-icons
 wmaurer.change-case
+yzane.markdown-pdf

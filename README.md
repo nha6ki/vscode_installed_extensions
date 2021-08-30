@@ -21,12 +21,15 @@ code --list-extensions > vscode_installed_extensions.txt
 
 ### GitLens
 - Gitの差分を表示する
+- usage: エディタの上にあるGitボタン
 
 ### Git Graph
 - Gitの履歴をツリー形式で表示する
+- usage: F1 >git-graph.view
 
 ### [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 - 選択範囲の差分を表示する
+- usage: Right-click Menu
 
 ### Bracket Pair Colorizer
 - カッコの対応関係を色付き表示する
@@ -40,6 +43,10 @@ code --list-extensions > vscode_installed_extensions.txt
 ### Trailing Spaces
 - 行末の空白を強調表示する
 
+### [Restore Editors](https://marketplace.visualstudio.com/items?itemName=eamodio.restore-editors)
+- 開いたエディタタブを保存・復元する
+- Cmd+K Cmd+E
+
 ### Code Spell Checker
 - スペルミスを検出する
 
@@ -47,10 +54,15 @@ code --list-extensions > vscode_installed_extensions.txt
 - 正規表現をチェックする
 
 ### change-case
-- 単語の大文字・小文字変換する
+- 命名規則を変換する
+- usage: F1 >change-case
 
 ### Bookmarks
 - コードをブックマークして移動・リスト化できる
+- usage:
+  - Bookmarks Toggle: Cmd+Opt+K
+  - Bookmarks jump to Next: Cmd+Opt+L
+  - Bookmarks jump to Previous: Cmd+Opt+J
 
 ### Auto Rename Tag
 - ペアになっているHTML/XMLタグの名前を自動的に変更する
@@ -61,8 +73,13 @@ code --list-extensions > vscode_installed_extensions.txt
 ### Beautify
 - HTML/CSS，JavaScriptのコードを整形する
 
-### [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)
-- Markdownの機能を拡張する
-
 ### Path Intellisense
 - ファイルのパスを補完する
+### [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)
+- Markdownの機能を拡張する
+- usage: Cmd+Shift+v
+  - Right-click Menu
+
+### [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf/blob/master/README.ja.md)
+- Markdownファイルをpdf, html, png, jpegに変換する
+- usage: Right-click Menu
