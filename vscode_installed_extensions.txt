@@ -4,8 +4,10 @@ chrmarti.regex
 CoenraadS.bracket-pair-colorizer
 eamodio.gitlens
 eamodio.restore-editors
+evilz.vscode-reveal
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+ginfuru.ginfuru-better-solarized-dark-theme
 HookyQR.beautify
 mhutchie.git-graph
 mosapride.zenkaku

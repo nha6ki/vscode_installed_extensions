@@ -13,6 +13,9 @@ code --list-extensions > vscode_installed_extensions.txt
 
 ## 拡張機能
 
+### [Better Solarized Light - Color Theme](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme)
+- [Color ThemeをBetter Solarized Lightに変更する](https://code.visualstudio.com/docs/getstarted/themes)
+
 ### Japanese Language Pack
 - UIを日本語化する
 
@@ -75,6 +78,7 @@ code --list-extensions > vscode_installed_extensions.txt
 
 ### Path Intellisense
 - ファイルのパスを補完する
+
 ### [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)
 - Markdownの機能を拡張する
 - usage: Cmd+Shift+v
@@ -83,3 +87,6 @@ code --list-extensions > vscode_installed_extensions.txt
 ### [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf/blob/master/README.ja.md)
 - Markdownファイルをpdf, html, png, jpegに変換する
 - usage: Right-click Menu
+
+### [VSCode Reveal](https://www.evilznet.com/vscode-reveal/#/)
+- reveal.jsでスライドを作る
